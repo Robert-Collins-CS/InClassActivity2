@@ -4,5 +4,7 @@ def calc(a, b):
    sub = a - b
    print(sub) 
    mult = a * b
-   print(mult) 
+   print(mult)
+   div = a / b
+   print(div) 
 calc(3,4) 
